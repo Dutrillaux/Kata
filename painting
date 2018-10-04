@@ -1,0 +1,20 @@
+> **Ecrire le code ou le pseudo code correspondant à ce problème :**
+
+Etant donné 
+
+```
+Un damier de 50 sur 50 cases,
+Et Chaque case du damier a une couleur,
+Et Certaines cases sont blanches, d'autres ont déjà des couleurs.
+```
+ Quand
+``` 
+On choisi une couleur autre que blanc pour peindre les cases blanches,
+Et une case de départ de couleur blanche.
+```
+ Alors
+ ```
+La case courante sera peinte de la couleur choisie,
+Et toutes les cases blanches adjacentes seront également peinte,
+Et ainsi de suite.
+```
